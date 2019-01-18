@@ -2,3 +2,4 @@
 
 atest
 btest
+ctest
