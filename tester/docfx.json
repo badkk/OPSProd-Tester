@@ -35,14 +35,13 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/Tester/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
-      "feedback_system": "None",
-      "author": "LucasDvp"
+      "breadcrumb_path": "/realtimeinsighttest/breadcrumb/toc.json",
+      "extendBreadcrumb": false,
+      "feedback_system": "None"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "Tester",
+    "dest": "realtimeinsighttest",
     "markdownEngineName": "markdig"
   }
 }
